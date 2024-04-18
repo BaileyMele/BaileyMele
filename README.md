@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9dc001&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Bailey+Mele;I+am+Commerce+and+Information+Technology+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9dc001&size=40&center=true&vCenter=true&width=1200&lines=Welcome+to+my+GitHub+profile!;My+name+is+Bailey+Mele;+I+am+a+Commerce+and+Information+Technology+Student)](https://git.io/typing-svg)
 
 <br>
 
