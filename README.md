@@ -41,7 +41,8 @@
 <br>
 
 ## Academic Background:
-
+### Bachelor of Commerce and Information Technology @ Macquarie University
+#### Major in International Business and Cybersecurity
 <br>
 
 ## Contact me:
